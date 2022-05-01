@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Intern @<a href="https://layer6.ai">Layer6 AI</a>; Undergraduate in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
+subtitle: Machine Learning Intern @<a href="https://layer6.ai">Layer6 AI</a>\
+Undergraduate in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
 
 profile:
   align: right
