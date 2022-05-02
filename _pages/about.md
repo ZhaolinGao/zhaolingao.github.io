@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Machine Learning Intern @<a href="https://layer6.ai">Layer6 AI</a>\
-Undergraduate in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
+Undergraduate Student in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
 
 profile:
   align: right
@@ -14,8 +14,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-I'm currently a Machine Learning Intern at [Layer6 AI](https://layer6.ai) and an undergraduate student in Computer Engineering at [University of Toronto](https://www.engineering.utoronto.ca/).
 
 My current research includes collaborative filtering, multimodal learning, representation learning,
 natural language processing, and graph neural network.
