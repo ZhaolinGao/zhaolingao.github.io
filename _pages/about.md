@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Intern @<a href="https://layer6.ai">Layer6 AI</a>, Undergraduate Student in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
+subtitle: Undergraduate Student in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ natural language processing, and graph neural network.
 
 Part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
 
-[[CV](/assets/pdf/Zhaolin_Gao_CV.pdf)]
+[CV](/assets/pdf/Zhaolin_Gao_CV.pdf).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
