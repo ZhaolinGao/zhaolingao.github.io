@@ -16,9 +16,12 @@ social: true  # includes social icons at the bottom of the page
 
 My research includes collaborative filtering, information retrieval, recommendation diversification, and session-based recommendation.
 
-Part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
+Part-time content creator with 1.4k followers on [YouTube](https://www.youtube.com/c/gitbag).
 
 [CV](/assets/pdf/Zhaolin_Gao_CV.pdf).
+
+<!-- Part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
+ -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
