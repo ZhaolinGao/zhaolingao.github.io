@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Undergraduate Student in Computer Engineering @<a href="https://www.engineering.utoronto.ca/">University of Toronto</a>
+subtitle: 
 
 profile:
   align: right
@@ -14,11 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research includes collaborative filtering, information retrieval, recommendation diversification, and session-based recommendation.
+I'm a first-year Ph.D. student in Computer Science at <a href="https://www.cs.cornell.edu/">Cornell University</a>. I completed my bachelor's degree in Computer Engineering at <a href="https://www.engineering.utoronto.ca/">University of Toronto</a>. My research includes representation learning, collaborative filtering, natural language processing, and graph neural network. My work has been published at CVPR, WWW, SIGIR, RecSys, and INFOCOM.
 
-Part-time content creator with 1.4k followers on [YouTube](https://www.youtube.com/c/gitbag).
+I am also a part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
 
-[CV](/assets/pdf/Zhaolin_Gao_CV.pdf).
+Download my CV [here](/assets/pdf/Zhaolin_Gao_CV.pdf).
 
 <!-- Part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
  -->
