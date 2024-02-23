@@ -20,6 +20,8 @@ I am also a part-time content creator with more than 50,000 followers and 10 mil
 
 Download my CV [here](/assets/pdf/Zhaolin_Gao_CV.pdf).
 
+zg292 [at] cornell.edu
+
 <!-- Part-time content creator with more than 50,000 followers and 10 million views on [Bilibili](https://space.bilibili.com/537049440), [Douyin](https://www.douyin.com/user/MS4wLjABAAAAmk2iWqbZmPZZfGJBKYwdhxciN6D24MsoaagyrSWbK6eQxObsfmIFFINyM3RLqnOc), and [YouTube](https://www.youtube.com/c/gitbag).
  -->
 
