@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Computer Science Ph.D. student at <a  href="https://www.cs.cornell.edu/">Cornell University</a>, where I am advised by <a  href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a  href="https://wensun.github.io/">Wen Sun</a>. My research includes reinforcement learning, recommendation systems, and graph neural networks. My work has been published at NeurIPS, CVPR, WWW, SIGIR, RecSys, and INFOCOM.
+I'm a second-year Computer Science Ph.D. student at <a  href="https://www.cs.cornell.edu/">Cornell University</a>, where I am advised by <a  href="https://www.cs.cornell.edu/people/tj/">Thorsten Joachims</a> and <a  href="https://wensun.github.io/">Wen Sun</a>. My research includes reinforcement learning, natural language processing, and recommendation systems. My work has been published at NeurIPS, CVPR, WWW, SIGIR, RecSys, and INFOCOM.
 
 I completed my bachelor's degree in Computer Engineering at <a  href="https://www.engineering.utoronto.ca/">University of Toronto</a>, where I had the privilege of working with <a  href="https://iqua.ece.toronto.edu/bli/">Baochun Li</a>, <a  href="https://d3m.mie.utoronto.ca/members/ssanner/">Scott Sanner</a>, and <a  href="https://www.cs.toronto.edu/~mvolkovs/">Maksims Volkovs</a>.
 
