@@ -108,7 +108,7 @@ collections:
     defaults:
       layout: post
     output: true
-    date_format: "%Y-%m"
+    # date_format: "%Y-%m"
     permalink: /news/:path/
   projects:
     output: true
